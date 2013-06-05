@@ -1,0 +1,20 @@
+[user]
+  name = Server
+  email = admin@quilted.coop
+[core]
+  autocrlf = input
+[color]
+  diff = auto
+  interactive = auto
+  status = auto
+  branch = auto
+[color "branch"]
+  current = yellow reverse
+  local = yellow
+[alias]
+  st = status
+  co = checkout
+  dt = difftool
+  b = branch
+	l = log --decorate=full --pretty=oneline
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
