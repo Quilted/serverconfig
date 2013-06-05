@@ -11,3 +11,4 @@
 !.drush/dgb/*
 !.gitconfig
 !.gitmodules
+!authorized_keys
