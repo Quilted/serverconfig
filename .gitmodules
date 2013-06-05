@@ -1,0 +1,6 @@
+[submodule "dgb"]
+	path = dgb
+	url = git://github.com/scor/dgb.git
+[submodule ".drush/dgb"]
+	path = .drush/dgb
+	url = git://github.com/scor/dgb.git

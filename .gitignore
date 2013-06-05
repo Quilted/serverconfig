@@ -7,4 +7,7 @@
 !.drush/
 !.drush/registry_rebuild/
 !.drush/registry_rebuild/*
+!.drush/dgb/
+!.drush/dgb/*
 !.gitconfig
+!.gitmodules
