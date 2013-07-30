@@ -2,6 +2,7 @@
 *
 
 # Except
+!README.md
 !.gitignore
 !.zshrc
 !.drush/
