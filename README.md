@@ -8,6 +8,7 @@
 
 ## Instructions
 
+- [Generate ssh keys](https://help.github.com/articles/generating-ssh-keys)
 - Clone repo into home directory
 - Move all contents of repo into home directory (including hidden files)
 - Delete the empty repo folder
